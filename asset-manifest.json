@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tt-scorer-website/static/css/main.47e8e48e.css",
+    "main.js": "/tt-scorer-website/static/js/main.5b6157bc.js",
+    "index.html": "/tt-scorer-website/index.html",
+    "main.47e8e48e.css.map": "/tt-scorer-website/static/css/main.47e8e48e.css.map",
+    "main.5b6157bc.js.map": "/tt-scorer-website/static/js/main.5b6157bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e8e48e.css",
+    "static/js/main.5b6157bc.js"
+  ]
+}
